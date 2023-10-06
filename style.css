@@ -53,4 +53,12 @@
         padding: 50px 0;
        }
 
-       
+       .estudante-todos{
+        display:grid;
+        grid-template-columns: 20% 20% 20% 20%;
+       }
+       footer{
+        background-color:black;
+        padding: 15px 0;
+        text-align:center;
+       }
